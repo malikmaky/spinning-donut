@@ -59,7 +59,7 @@ the point x=10, z=5 is still on the screen with
 
 - Dividing once by z and then multiplying by z-1 twice is cheaper than dividing by z twice, this optimization helps in speeding up the rendering process.
 
-## Drawing the Torus : 
+## Drawing The Torus : 
 
 Circle of radius __R1__ centered at point __(R2,0,0)__, θ — from 0 to 2π:
 
