@@ -100,8 +100,10 @@ https://www.a1k0n.net/2011/07/20/donut-math.html
 Rotation Matrix :
 https://en.wikipedia.org/wiki/Rotation_matrix	
 
- 
+## Demo
 
+Check out the demo through this youtube video down bellow
+https://www.youtube.com/watch?v=40IfGnu9R9Q
 
 ## Credits
 
@@ -110,7 +112,3 @@ This project is maintained by @malikmaky.
 For any inquiries or feedback, please contact malikmhmd@hotmail.com
 
 
-## Demo
-
-Check out the demo through this youtube video down bellow
-https://www.youtube.com/watch?v=40IfGnu9R9Q
