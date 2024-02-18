@@ -19,7 +19,7 @@ The implementation contains fundamental mathematical concepts and techniques to 
 
 
 
-## Explanation Of Doughnut Math :
+## Explanation Of Doughnut Math
 
 The spinning torus, also known as a "doughnut”, is a shape formed by rotating a circle in three-dimensional space.
 
@@ -30,7 +30,7 @@ which determine the size and position of the torus.
 
 The torus is then projected onto a two-dimensional plane located a certain distance away from the viewer, resulting in a flattened representation that mimics the perception of depth.
 
-## Projecting a 3D Object onto a 2D Screen :
+## Projecting A 3D Object Onto A 2D Screen
 
 (x,y,z) is the object points in the 3D-Space, In order to project a 3D object onto a 2D screen,we imagine an imaginary flat surface positioned at
 a specific distance (denoted as z') from the viewer.
@@ -59,7 +59,7 @@ the point x=10, z=5 is still on the screen with
 
 - Dividing once by z and then multiplying by z-1 twice is cheaper than dividing by z twice, this optimization helps in speeding up the rendering process.
 
-## Drawing The Torus : 
+## Drawing The Torus
 
 Circle of radius __R1__ centered at point __(R2,0,0)__, θ — from 0 to 2π:
 
@@ -86,13 +86,13 @@ So we have another constant to pick, call it __K2__, for the distance of the don
 
 - K1 and K2 can be tweaked together to change the field of view and flatten or exaggerate the depth of the object.
 
-## Implementation :
+## Implementation
 
 - We use a bitmap to draw/represent the rotating donut points. 
 - Mathematical calculations determine each point's position and color on the donut's surface, which is projected onto the 2D bitmap.
 - Double buffering ensures smooth animation by drawing frames onto a hidden buffer before displaying them seamlessly, this process creates a visually engaging spinning donut animation, showcasing the intersection of mathematics and computer graphics.
 
-## References :
+## References
 
 Donut Math :
 https://www.a1k0n.net/2011/07/20/donut-math.html	
