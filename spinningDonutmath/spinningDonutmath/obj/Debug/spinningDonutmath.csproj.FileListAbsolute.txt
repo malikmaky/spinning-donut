@@ -1,0 +1,11 @@
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\bin\Debug\spinningDonutmath.exe.config
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\bin\Debug\spinningDonutmath.exe
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\bin\Debug\spinningDonutmath.pdb
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.csproj.AssemblyReference.cache
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.SpinningDonutForm.resources
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.Properties.Resources.resources
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.csproj.GenerateResource.cache
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.csproj.CoreCompileInputs.cache
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.exe
+C:\Users\Maky\source\repos\spinningDonutmath\spinningDonutmath\obj\Debug\spinningDonutmath.pdb
